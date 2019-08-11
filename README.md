@@ -1,2 +1,2 @@
-# 1_4-student-bio
-Basic bio info on static html page
+#student-bio
+Assignment 1_4 completed. Basic bio info on static html page
